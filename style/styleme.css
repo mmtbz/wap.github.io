@@ -1,3 +1,7 @@
 body{
-    background-color: darkslategray;
+    background-color: darkslategrey;
+}
+
+h1, h2, h3 {
+    color: cornflowerblue;
 }
