@@ -1,5 +1,7 @@
 body{
     background-color: darkslategrey;
+    margin: auto;
+    text-align: center;
 }
 em{
     color: yellow;
