@@ -1,7 +1,22 @@
 body{
     background-color: darkslategrey;
 }
+em{
+    color: yellow;
+}
 
 h1, h2, h3 {
     color: cornflowerblue;
+}
+
+h1{
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 16px;
 }
