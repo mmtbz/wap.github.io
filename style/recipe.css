@@ -3,6 +3,9 @@ body{
     font-size: 11pt;
     /*font-family: "Georgia"; */
     font-family: Georgia;
+
+    margin-right: 10%;
+    margin-left: 10%;
 }
 
 a{
@@ -17,4 +20,13 @@ h1 {
     color: #A4A400;
     background-color: #F0F0F0;
     font: bold 18pt Sans Serif;
+}
+
+.comment{
+    background-color: yellow;
+}
+
+.validator{
+    display: inline-flex;
+    float: right;
 }
