@@ -6,11 +6,10 @@ body{
     padding: 0;
 }
 
-#imgbg{
+#nav-header{
     text-align: center;
-
+    background-image: url("../images/movie/bannerbg.png");
 }
-
 .top_banner{
     background-color: #404040;
     margin: auto;
@@ -33,9 +32,19 @@ h1{
 }
 
 .right-banner{
+    margin-top: 0;
     width: 250px;
     float: right;
+    border-top-right-radius: 20px;
     background-color: lightgreen;
+}
+
+#bellow{
+    border-radius: 0;
+}
+
+.right-banner>img{
+    border-top-right-radius: 16px;
 }
 
 .right-description{
