@@ -1,0 +1,47 @@
+body{
+    background-image: url("../images/movie/background.png");
+    font-size: 8pt;
+    font-family: Verdana, Tahoma;
+    margin: 0;
+    padding: 0;
+}
+
+#imgbg{
+    text-align: center;
+
+}
+
+.top_banner{
+    background-color: #404040;
+    margin: auto;
+    width: 55%;
+    height: 50px;
+}
+
+h1{
+    font: 24pt bold font;
+    font-family: Tahoma, Verdana;
+    text-align: center;
+    text-shadow: 3px 3px #999999;
+}
+
+.main_body{
+    margin: auto;
+    width: 800px;
+    border: solid 4px gray ;
+    border-radius: 20px;
+}
+
+.right-banner{
+    width: 250px;
+    float: right;
+    background-color: lightgreen;
+}
+
+.right-description{
+    clear: both;
+}
+
+.content{
+    width: 550px;
+}
